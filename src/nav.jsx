@@ -12,6 +12,7 @@ const NavigationBar = () => {
         <li><a href="#contact">Contact</a></li>
       </ul>
     </nav>
+    
   );
 }
 export default NavigationBar
