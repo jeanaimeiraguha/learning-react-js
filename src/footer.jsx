@@ -1,14 +1,14 @@
-import React from 'react'
+// import React from 'react'
 
-const footer = () => {
-  return (
-    <div>
-      <footer>
-      &copy; {new Date().getFullYear()} All rights reserved Iraguha
+// const footer = () => {
+//   return (
+//     <div>
+//       {/* <footer className=''>
+//       &copy; {new Date().getFullYear()} All rights reserved Iraguha */}
 
-      </footer>
-    </div>
-  )
-}
+//       </footer>
+//     </div>
+//   )
+// }
 
-export default footer
+// export default footer

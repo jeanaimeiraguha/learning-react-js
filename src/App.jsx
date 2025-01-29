@@ -3,7 +3,7 @@ import React from 'react'
 import NavigationBar from './nav';
 import Welcome from './Welcome';
 import home from './themes/home';
-import footer from './footer';
+// import footer from './footer';
 
 const App = () => {
   return (
@@ -11,7 +11,7 @@ const App = () => {
    <NavigationBar/>
    <Welcome/>
    {/* <Home/> */}
-   <footer/>
+   {/* <footer/> */}
     </div>
   )
 }
